@@ -1,0 +1,55 @@
+CREATE TABLE student_email (
+ student_id INT NOT NULL,
+ email_id INT NOT NULL
+);
+
+insert into student_email (student_id, email_id) values (4, 46);
+insert into student_email (student_id, email_id) values (26, 4);
+insert into student_email (student_id, email_id) values (25, 28);
+insert into student_email (student_id, email_id) values (36, 14);
+insert into student_email (student_id, email_id) values (3, 19);
+insert into student_email (student_id, email_id) values (49, 13);
+insert into student_email (student_id, email_id) values (27, 34);
+insert into student_email (student_id, email_id) values (43, 18);
+insert into student_email (student_id, email_id) values (14, 33);
+insert into student_email (student_id, email_id) values (1, 3);
+insert into student_email (student_id, email_id) values (48, 40);
+insert into student_email (student_id, email_id) values (30, 34);
+insert into student_email (student_id, email_id) values (43, 32);
+insert into student_email (student_id, email_id) values (12, 3);
+insert into student_email (student_id, email_id) values (41, 9);
+insert into student_email (student_id, email_id) values (6, 35);
+insert into student_email (student_id, email_id) values (13, 40);
+insert into student_email (student_id, email_id) values (40, 45);
+insert into student_email (student_id, email_id) values (45, 5);
+insert into student_email (student_id, email_id) values (9, 35);
+insert into student_email (student_id, email_id) values (1, 8);
+insert into student_email (student_id, email_id) values (31, 17);
+insert into student_email (student_id, email_id) values (30, 24);
+insert into student_email (student_id, email_id) values (46, 40);
+insert into student_email (student_id, email_id) values (32, 30);
+insert into student_email (student_id, email_id) values (47, 12);
+insert into student_email (student_id, email_id) values (16, 6);
+insert into student_email (student_id, email_id) values (8, 1);
+insert into student_email (student_id, email_id) values (7, 39);
+insert into student_email (student_id, email_id) values (41, 46);
+insert into student_email (student_id, email_id) values (27, 5);
+insert into student_email (student_id, email_id) values (8, 32);
+insert into student_email (student_id, email_id) values (21, 5);
+insert into student_email (student_id, email_id) values (15, 17);
+insert into student_email (student_id, email_id) values (49, 4);
+insert into student_email (student_id, email_id) values (15, 10);
+insert into student_email (student_id, email_id) values (32, 4);
+insert into student_email (student_id, email_id) values (26, 50);
+insert into student_email (student_id, email_id) values (31, 49);
+insert into student_email (student_id, email_id) values (3, 12);
+insert into student_email (student_id, email_id) values (15, 38);
+insert into student_email (student_id, email_id) values (4, 27);
+insert into student_email (student_id, email_id) values (31, 24);
+insert into student_email (student_id, email_id) values (40, 23);
+insert into student_email (student_id, email_id) values (23, 3);
+insert into student_email (student_id, email_id) values (6, 42);
+insert into student_email (student_id, email_id) values (37, 23);
+insert into student_email (student_id, email_id) values (13, 24);
+insert into student_email (student_id, email_id) values (28, 15);
+insert into student_email (student_id, email_id) values (40, 13);
